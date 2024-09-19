@@ -1,7 +1,6 @@
 # SQL Examination Database System
 The SQL Examination Database System optimizes educational institutions' exam processes and data management. It includes tables for branches, courses, exams, and students, with stored procedures for creating and assigning exams. Security roles ensure data integrity and access control.
 
-
 # Tables
 1. Branches
    
